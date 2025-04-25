@@ -1,0 +1,107 @@
+Sport_oddsportal,League_oddsportal,Time_oddsportal,Team 1_oddsportal,Team 2_oddsportal,Odds 1_oddsportal,Odds X_oddsportal,Odds 2_oddsportal,key,Sport_sports,League_sports,Time_sports,Team 1_sports,Team 2_sports,Odds 1_sports,Odds X_sports,Odds 2_sports,prob1,probX,prob2,+EV Team 1,+EV Tie,+EV Team 2,EV Team 1 (%),EV Tie (%),EV Team 2 (%),Category
+Football,Serie B,20:00,Chacaritas,Guayaquil City,4.34,3.43,1.76,chacaritas_guayaquilcity,Soccer,"Ecuador
+Serie B","Today, 20:00",Chacaritas,Guayaquil City,4.40,3.50,1.77,0.21136218812803295,0.2674378706926131,0.5211999411793541,1.0,1.0,1.0,-7.0,-6.4,-7.75,Team 1
+Football,MLS Next Pro,20:00,Colorado Rapids 2,Minnesota 2,2.54,3.85,2.28,coloradorapids2_minnesota2,Soccer,"USA
+MLS Next Pro","Today, 20:00",Colorado Rapids 2,Minnesota 2,2.55,4.00,2.3,0.36051946345109703,0.23784920445864582,0.40163133209025725,1.0,1.0,1.0,-8.07,-4.86,-7.62,Team 1
+Football,Copa Libertadores,20:30,Cerro Porteno (Par),Sporting Cristal (Per),1.63,3.76,5.54,cerroporteno(par)_sportingcristal(per),Soccer,"International
+Copa Libertadores","Today, 20:30",Cerro Porteno (Par),Sporting Cristal (Per),1.64,3.75,5.4,0.5787926445008807,0.2509127687596903,0.17029458673942882,1.0,1.0,1.0,-5.08,-5.91,-8.04,Team 1
+Football,Copa Sudamericana,20:30,Palestino (Chi),Cruzeiro (Bra),3.0,3.14,2.43,palestino(chi)_cruzeiro(bra),Soccer,"International
+Copa Sudamericana","Today, 20:30",Palestino (Chi),Cruzeiro (Bra),3.05,3.15,2.42,0.3134814011388567,0.29950452338107325,0.38701407548007,1.0,1.0,1.0,-4.39,-5.66,-6.34,Team 1
+Football,Copa Sudamericana,20:30,Deportes Iquique (Chi),Cienciano (Per),1.82,3.54,4.27,deportesiquique(chi)_cienciano(per),Soccer,"International
+Copa Sudamericana","Today, 20:30",Deportes Iquique (Chi),Cienciano (Per),1.83,3.60,4.3,0.5153699284009546,0.264964200477327,0.2196658711217184,1.0,1.0,1.0,-5.69,-4.61,-5.54,Team 1
+Football,Liga MX Women,21:00,Guadalajara Chivas W,UNAM Pumas W,1.81,3.63,3.84,guadalajarachivasw_unampumasw,Soccer,"Mexico
+Liga MX, Women, Clausura","Today, 21:00",Guadalajara Chivas W,UNAM Pumas W,1.85,3.80,3.8,0.5076202025499,0.2531108998940273,0.23926889755607267,1.0,1.0,1.0,-6.09,-3.82,-9.08,Team 1
+Football,Liga Nacional,22:00,Xelaju,Coban Imperial,1.52,3.76,5.8,xelaju_cobanimperial,Soccer,"Guatemala
+Liga Nacional. Apertura","Today, 22:00",Xelaju,Coban Imperial,1.55,3.95,5.7,0.6001232828460726,0.24260302923564636,0.1572736879182811,1.0,1.0,1.0,-6.98,-4.17,-10.35,Team 1
+Football,Copa Sudamericana,22:00,U. Catolica (Ecu),Defensa y Justicia (Arg),1.62,3.7,5.67,ucatolica(ecu)_defensayjusticia(arg),Soccer,"International
+Copa Sudamericana","Today, 22:00",U. Catolica (Ecu),Defensa y Justicia (Arg),1.63,3.75,5.8,0.5801971326164874,0.2540322580645161,0.1657706093189964,1.0,1.0,1.0,-5.43,-4.74,-3.85,Team 1
+Football,Liga de Expansion MX,22:05,Tepatitlan de Morelos,Leones Negros,2.55,3.32,2.58,tepatitlandemorelos_leonesnegros,Soccer,"Mexico
+Liga De Expansion MX, Clausura","Today, 22:05",Tepatitlan de Morelos,Leones Negros,2.50,3.25,2.55,0.3627862061955223,0.27864603186704273,0.3585677619374348,1.0,1.0,1.0,-9.3,-9.44,-8.57,Team 1
+Football,CONCACAF Champions Cup,22:30,Vancouver Whitecaps,Inter Miami,2.2,3.53,3.04,vancouverwhitecaps_intermiami,Soccer,"International
+CONCACAF Champions Cup","Today, 22:30",Vancouver Whitecaps,Inter Miami,2.20,3.55,3.05,0.42609151406381524,0.26555278496895,0.30835570096723475,1.0,1.0,1.0,-6.26,-5.73,-5.95,Team 1
+Football,NPL NSW,23:30,Sydney FC U23,Sutherland Sharks,2.2,3.72,2.69,sydneyu23_sutherlandsharks,Soccer,"Australia
+NSW NPL 1","Today, 23:30",Sydney FC U23,Sutherland Sharks,2.25,3.80,2.75,0.4150683567825856,0.24547053358109897,0.3394611096363154,1.0,1.0,1.0,-6.61,-6.72,-6.65,Team 1
+Hockey,Friendly International,11:30,Czech Republic,Slovakia,1.53,4.58,4.61,czechrepublic_slovakia,Ice Hockey,"International
+Int. Friendly Games","Tomorrow, 10:30",Czech Republic,Slovakia,1.40,5.20,5.9,0.6002587101451337,0.2005231062275228,0.19921818362734367,1.0,0.0,0.0,-15.96,4.27,17.54,Team 1
+Hockey,Friendly International,12:30,Latvia,Switzerland,2.96,4.11,1.97,latvia_switzerland,Ice Hockey,"International
+Int. Friendly Games","Tomorrow, 12:30",Latvia,Switzerland,2.88,4.00,2.1,0.3102956675034012,0.2234732787859045,0.46623105371069423,1.0,1.0,1.0,-10.63,-10.61,-2.09,Team 1
+Hockey,ECHL,20:05,Tulsa Oilers,Kansas City,2.89,4.03,2.02,tulsaoilers_kansascity,Ice Hockey,"USA
+ECHL","Today, 20:05",Tulsa Oilers,Kansas City,2.91,4.10,2.03,0.31768071148990634,0.2278156963289899,0.45450359218110364,1.0,1.0,1.0,-7.55,-6.6,-7.74,Team 1
+Hockey,NHL,21:00,Minnesota Wild,Vegas Golden Knights,3.04,4.24,2.04,minnesotawild_vegasgoldenknights,Ice Hockey,"USA
+NHL","Today, 21:00",Minnesota Wild,Vegas Golden Knights,3.05,4.10,2.02,0.31180066905064024,0.2235551966778175,0.46464413427154233,1.0,1.0,1.0,-4.9,-8.34,-6.14,Team 1
+Hockey,NHL,21:30,St. Louis Blues,Winnipeg Jets,2.61,4.04,2.34,stlouisblues_winnipegjets,Ice Hockey,"USA
+NHL","Today, 21:30",St. Louis Blues,Winnipeg Jets,2.65,3.90,2.33,0.3621319726953044,0.23395159622147138,0.4039164310832241,1.0,1.0,1.0,-4.04,-8.76,-5.89,Team 1
+Hockey,AHL,22:00,Abbotsford Canucks,Tucson Roadrunners,2.23,3.87,2.65,abbotsfordcanucks_tucsonroadrunners,Ice Hockey,"USA
+AHL","Today, 22:00",Abbotsford Canucks,Tucson Roadrunners,2.26,3.93,2.61,0.41360994712664995,0.23833338038564064,0.3480566724877092,1.0,1.0,1.0,-6.52,-6.33,-9.16,Team 1
+Hockey,AHL,22:00,Ontario Reign,San Jose Barracuda,2.18,4.09,2.64,ontarioreign_sanjosebarracuda,Ice Hockey,"USA
+AHL","Today, 22:00",Ontario Reign,San Jose Barracuda,2.16,4.17,2.65,0.4239506851466488,0.2259688248458911,0.35008049000746005,1.0,1.0,1.0,-8.43,-5.77,-7.23,Team 1
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Football,Serie B,20:00,Chacaritas,Guayaquil City,4.34,3.43,1.76,chacaritas_guayaquilcity,Soccer,"Ecuador
+Serie B","Today, 20:00",Chacaritas,Guayaquil City,4.40,3.50,1.77,0.21136218812803295,0.2674378706926131,0.5211999411793541,1.0,1.0,1.0,-7.0,-6.4,-7.75,Tie
+Football,MLS Next Pro,20:00,Colorado Rapids 2,Minnesota 2,2.54,3.85,2.28,coloradorapids2_minnesota2,Soccer,"USA
+MLS Next Pro","Today, 20:00",Colorado Rapids 2,Minnesota 2,2.55,4.00,2.3,0.36051946345109703,0.23784920445864582,0.40163133209025725,1.0,1.0,1.0,-8.07,-4.86,-7.62,Tie
+Football,Copa Libertadores,20:30,Cerro Porteno (Par),Sporting Cristal (Per),1.63,3.76,5.54,cerroporteno(par)_sportingcristal(per),Soccer,"International
+Copa Libertadores","Today, 20:30",Cerro Porteno (Par),Sporting Cristal (Per),1.64,3.75,5.4,0.5787926445008807,0.2509127687596903,0.17029458673942882,1.0,1.0,1.0,-5.08,-5.91,-8.04,Tie
+Football,Copa Sudamericana,20:30,Palestino (Chi),Cruzeiro (Bra),3.0,3.14,2.43,palestino(chi)_cruzeiro(bra),Soccer,"International
+Copa Sudamericana","Today, 20:30",Palestino (Chi),Cruzeiro (Bra),3.05,3.15,2.42,0.3134814011388567,0.29950452338107325,0.38701407548007,1.0,1.0,1.0,-4.39,-5.66,-6.34,Tie
+Football,Copa Sudamericana,20:30,Deportes Iquique (Chi),Cienciano (Per),1.82,3.54,4.27,deportesiquique(chi)_cienciano(per),Soccer,"International
+Copa Sudamericana","Today, 20:30",Deportes Iquique (Chi),Cienciano (Per),1.83,3.60,4.3,0.5153699284009546,0.264964200477327,0.2196658711217184,1.0,1.0,1.0,-5.69,-4.61,-5.54,Tie
+Football,Liga MX Women,21:00,Guadalajara Chivas W,UNAM Pumas W,1.81,3.63,3.84,guadalajarachivasw_unampumasw,Soccer,"Mexico
+Liga MX, Women, Clausura","Today, 21:00",Guadalajara Chivas W,UNAM Pumas W,1.85,3.80,3.8,0.5076202025499,0.2531108998940273,0.23926889755607267,1.0,1.0,1.0,-6.09,-3.82,-9.08,Tie
+Football,Liga Nacional,22:00,Xelaju,Coban Imperial,1.52,3.76,5.8,xelaju_cobanimperial,Soccer,"Guatemala
+Liga Nacional. Apertura","Today, 22:00",Xelaju,Coban Imperial,1.55,3.95,5.7,0.6001232828460726,0.24260302923564636,0.1572736879182811,1.0,1.0,1.0,-6.98,-4.17,-10.35,Tie
+Football,Copa Sudamericana,22:00,U. Catolica (Ecu),Defensa y Justicia (Arg),1.62,3.7,5.67,ucatolica(ecu)_defensayjusticia(arg),Soccer,"International
+Copa Sudamericana","Today, 22:00",U. Catolica (Ecu),Defensa y Justicia (Arg),1.63,3.75,5.8,0.5801971326164874,0.2540322580645161,0.1657706093189964,1.0,1.0,1.0,-5.43,-4.74,-3.85,Tie
+Football,Liga de Expansion MX,22:05,Tepatitlan de Morelos,Leones Negros,2.55,3.32,2.58,tepatitlandemorelos_leonesnegros,Soccer,"Mexico
+Liga De Expansion MX, Clausura","Today, 22:05",Tepatitlan de Morelos,Leones Negros,2.50,3.25,2.55,0.3627862061955223,0.27864603186704273,0.3585677619374348,1.0,1.0,1.0,-9.3,-9.44,-8.57,Tie
+Football,CONCACAF Champions Cup,22:30,Vancouver Whitecaps,Inter Miami,2.2,3.53,3.04,vancouverwhitecaps_intermiami,Soccer,"International
+CONCACAF Champions Cup","Today, 22:30",Vancouver Whitecaps,Inter Miami,2.20,3.55,3.05,0.42609151406381524,0.26555278496895,0.30835570096723475,1.0,1.0,1.0,-6.26,-5.73,-5.95,Tie
+Football,NPL NSW,23:30,Sydney FC U23,Sutherland Sharks,2.2,3.72,2.69,sydneyu23_sutherlandsharks,Soccer,"Australia
+NSW NPL 1","Today, 23:30",Sydney FC U23,Sutherland Sharks,2.25,3.80,2.75,0.4150683567825856,0.24547053358109897,0.3394611096363154,1.0,1.0,1.0,-6.61,-6.72,-6.65,Tie
+Hockey,Friendly International,12:30,Latvia,Switzerland,2.96,4.11,1.97,latvia_switzerland,Ice Hockey,"International
+Int. Friendly Games","Tomorrow, 12:30",Latvia,Switzerland,2.88,4.00,2.1,0.3102956675034012,0.2234732787859045,0.46623105371069423,1.0,1.0,1.0,-10.63,-10.61,-2.09,Tie
+Hockey,ECHL,20:05,Tulsa Oilers,Kansas City,2.89,4.03,2.02,tulsaoilers_kansascity,Ice Hockey,"USA
+ECHL","Today, 20:05",Tulsa Oilers,Kansas City,2.91,4.10,2.03,0.31768071148990634,0.2278156963289899,0.45450359218110364,1.0,1.0,1.0,-7.55,-6.6,-7.74,Tie
+Hockey,NHL,21:00,Minnesota Wild,Vegas Golden Knights,3.04,4.24,2.04,minnesotawild_vegasgoldenknights,Ice Hockey,"USA
+NHL","Today, 21:00",Minnesota Wild,Vegas Golden Knights,3.05,4.10,2.02,0.31180066905064024,0.2235551966778175,0.46464413427154233,1.0,1.0,1.0,-4.9,-8.34,-6.14,Tie
+Hockey,NHL,21:30,St. Louis Blues,Winnipeg Jets,2.61,4.04,2.34,stlouisblues_winnipegjets,Ice Hockey,"USA
+NHL","Today, 21:30",St. Louis Blues,Winnipeg Jets,2.65,3.90,2.33,0.3621319726953044,0.23395159622147138,0.4039164310832241,1.0,1.0,1.0,-4.04,-8.76,-5.89,Tie
+Hockey,AHL,22:00,Abbotsford Canucks,Tucson Roadrunners,2.23,3.87,2.65,abbotsfordcanucks_tucsonroadrunners,Ice Hockey,"USA
+AHL","Today, 22:00",Abbotsford Canucks,Tucson Roadrunners,2.26,3.93,2.61,0.41360994712664995,0.23833338038564064,0.3480566724877092,1.0,1.0,1.0,-6.52,-6.33,-9.16,Tie
+Hockey,AHL,22:00,Ontario Reign,San Jose Barracuda,2.18,4.09,2.64,ontarioreign_sanjosebarracuda,Ice Hockey,"USA
+AHL","Today, 22:00",Ontario Reign,San Jose Barracuda,2.16,4.17,2.65,0.4239506851466488,0.2259688248458911,0.35008049000746005,1.0,1.0,1.0,-8.43,-5.77,-7.23,Tie
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Football,Serie B,20:00,Chacaritas,Guayaquil City,4.34,3.43,1.76,chacaritas_guayaquilcity,Soccer,"Ecuador
+Serie B","Today, 20:00",Chacaritas,Guayaquil City,4.40,3.50,1.77,0.21136218812803295,0.2674378706926131,0.5211999411793541,1.0,1.0,1.0,-7.0,-6.4,-7.75,Team 2
+Football,MLS Next Pro,20:00,Colorado Rapids 2,Minnesota 2,2.54,3.85,2.28,coloradorapids2_minnesota2,Soccer,"USA
+MLS Next Pro","Today, 20:00",Colorado Rapids 2,Minnesota 2,2.55,4.00,2.3,0.36051946345109703,0.23784920445864582,0.40163133209025725,1.0,1.0,1.0,-8.07,-4.86,-7.62,Team 2
+Football,Copa Libertadores,20:30,Cerro Porteno (Par),Sporting Cristal (Per),1.63,3.76,5.54,cerroporteno(par)_sportingcristal(per),Soccer,"International
+Copa Libertadores","Today, 20:30",Cerro Porteno (Par),Sporting Cristal (Per),1.64,3.75,5.4,0.5787926445008807,0.2509127687596903,0.17029458673942882,1.0,1.0,1.0,-5.08,-5.91,-8.04,Team 2
+Football,Copa Sudamericana,20:30,Palestino (Chi),Cruzeiro (Bra),3.0,3.14,2.43,palestino(chi)_cruzeiro(bra),Soccer,"International
+Copa Sudamericana","Today, 20:30",Palestino (Chi),Cruzeiro (Bra),3.05,3.15,2.42,0.3134814011388567,0.29950452338107325,0.38701407548007,1.0,1.0,1.0,-4.39,-5.66,-6.34,Team 2
+Football,Copa Sudamericana,20:30,Deportes Iquique (Chi),Cienciano (Per),1.82,3.54,4.27,deportesiquique(chi)_cienciano(per),Soccer,"International
+Copa Sudamericana","Today, 20:30",Deportes Iquique (Chi),Cienciano (Per),1.83,3.60,4.3,0.5153699284009546,0.264964200477327,0.2196658711217184,1.0,1.0,1.0,-5.69,-4.61,-5.54,Team 2
+Football,Liga MX Women,21:00,Guadalajara Chivas W,UNAM Pumas W,1.81,3.63,3.84,guadalajarachivasw_unampumasw,Soccer,"Mexico
+Liga MX, Women, Clausura","Today, 21:00",Guadalajara Chivas W,UNAM Pumas W,1.85,3.80,3.8,0.5076202025499,0.2531108998940273,0.23926889755607267,1.0,1.0,1.0,-6.09,-3.82,-9.08,Team 2
+Football,Liga Nacional,22:00,Xelaju,Coban Imperial,1.52,3.76,5.8,xelaju_cobanimperial,Soccer,"Guatemala
+Liga Nacional. Apertura","Today, 22:00",Xelaju,Coban Imperial,1.55,3.95,5.7,0.6001232828460726,0.24260302923564636,0.1572736879182811,1.0,1.0,1.0,-6.98,-4.17,-10.35,Team 2
+Football,Copa Sudamericana,22:00,U. Catolica (Ecu),Defensa y Justicia (Arg),1.62,3.7,5.67,ucatolica(ecu)_defensayjusticia(arg),Soccer,"International
+Copa Sudamericana","Today, 22:00",U. Catolica (Ecu),Defensa y Justicia (Arg),1.63,3.75,5.8,0.5801971326164874,0.2540322580645161,0.1657706093189964,1.0,1.0,1.0,-5.43,-4.74,-3.85,Team 2
+Football,Liga de Expansion MX,22:05,Tepatitlan de Morelos,Leones Negros,2.55,3.32,2.58,tepatitlandemorelos_leonesnegros,Soccer,"Mexico
+Liga De Expansion MX, Clausura","Today, 22:05",Tepatitlan de Morelos,Leones Negros,2.50,3.25,2.55,0.3627862061955223,0.27864603186704273,0.3585677619374348,1.0,1.0,1.0,-9.3,-9.44,-8.57,Team 2
+Football,CONCACAF Champions Cup,22:30,Vancouver Whitecaps,Inter Miami,2.2,3.53,3.04,vancouverwhitecaps_intermiami,Soccer,"International
+CONCACAF Champions Cup","Today, 22:30",Vancouver Whitecaps,Inter Miami,2.20,3.55,3.05,0.42609151406381524,0.26555278496895,0.30835570096723475,1.0,1.0,1.0,-6.26,-5.73,-5.95,Team 2
+Football,NPL NSW,23:30,Sydney FC U23,Sutherland Sharks,2.2,3.72,2.69,sydneyu23_sutherlandsharks,Soccer,"Australia
+NSW NPL 1","Today, 23:30",Sydney FC U23,Sutherland Sharks,2.25,3.80,2.75,0.4150683567825856,0.24547053358109897,0.3394611096363154,1.0,1.0,1.0,-6.61,-6.72,-6.65,Team 2
+Hockey,Friendly International,12:30,Latvia,Switzerland,2.96,4.11,1.97,latvia_switzerland,Ice Hockey,"International
+Int. Friendly Games","Tomorrow, 12:30",Latvia,Switzerland,2.88,4.00,2.1,0.3102956675034012,0.2234732787859045,0.46623105371069423,1.0,1.0,1.0,-10.63,-10.61,-2.09,Team 2
+Hockey,ECHL,20:05,Tulsa Oilers,Kansas City,2.89,4.03,2.02,tulsaoilers_kansascity,Ice Hockey,"USA
+ECHL","Today, 20:05",Tulsa Oilers,Kansas City,2.91,4.10,2.03,0.31768071148990634,0.2278156963289899,0.45450359218110364,1.0,1.0,1.0,-7.55,-6.6,-7.74,Team 2
+Hockey,NHL,21:00,Minnesota Wild,Vegas Golden Knights,3.04,4.24,2.04,minnesotawild_vegasgoldenknights,Ice Hockey,"USA
+NHL","Today, 21:00",Minnesota Wild,Vegas Golden Knights,3.05,4.10,2.02,0.31180066905064024,0.2235551966778175,0.46464413427154233,1.0,1.0,1.0,-4.9,-8.34,-6.14,Team 2
+Hockey,NHL,21:30,St. Louis Blues,Winnipeg Jets,2.61,4.04,2.34,stlouisblues_winnipegjets,Ice Hockey,"USA
+NHL","Today, 21:30",St. Louis Blues,Winnipeg Jets,2.65,3.90,2.33,0.3621319726953044,0.23395159622147138,0.4039164310832241,1.0,1.0,1.0,-4.04,-8.76,-5.89,Team 2
+Hockey,AHL,22:00,Abbotsford Canucks,Tucson Roadrunners,2.23,3.87,2.65,abbotsfordcanucks_tucsonroadrunners,Ice Hockey,"USA
+AHL","Today, 22:00",Abbotsford Canucks,Tucson Roadrunners,2.26,3.93,2.61,0.41360994712664995,0.23833338038564064,0.3480566724877092,1.0,1.0,1.0,-6.52,-6.33,-9.16,Team 2
+Hockey,AHL,22:00,Ontario Reign,San Jose Barracuda,2.18,4.09,2.64,ontarioreign_sanjosebarracuda,Ice Hockey,"USA
+AHL","Today, 22:00",Ontario Reign,San Jose Barracuda,2.16,4.17,2.65,0.4239506851466488,0.2259688248458911,0.35008049000746005,1.0,1.0,1.0,-8.43,-5.77,-7.23,Team 2
